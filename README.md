@@ -1,95 +1,129 @@
  <div align="center">
 
-# Aditya Rawat
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=750&lines=ADITYA+RAWAT;BACKEND+DEVELOPER;NODE.JS+%7C+EXPRESS.JS+%7C+MONGODB;OPEN+SOURCE+CONTRIBUTOR" alt="Animated typing header" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Node.js+%7C+Express.js+%7C+MongoDB;Open+Source+Contributor;Building+Reliable+Developer+Tools)](https://git.io/typing-svg)
+<a href="https://github.com/adirwt852-cloud">
+  <img src="https://img.shields.io/badge/GitHub-adirwt852--cloud-0d1117?style=for-the-badge&logo=github&logoColor=00F7FF" alt="GitHub profile" />
+</a>
+<img src="https://img.shields.io/badge/Focus-Backend%20Engineering-00F7FF?style=for-the-badge&labelColor=0d1117" alt="Backend engineering" />
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-7C3AED?style=for-the-badge&labelColor=0d1117" alt="Open source contributor" />
 
-**Backend Development • Open Source • Developer Tools**
+<br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-adirwt852--cloud-181717?style=for-the-badge&logo=github)](https://github.com/adirwt852-cloud)
-[![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Node.js](https://img.shields.io/badge/Node.js-Runtime-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+### `Building reliable software. One commit at a time.`
 
 </div>
 
 ---
 
-## About Me
+## `> whoami`
 
-I'm a final-year B.Tech Computer Science student interested in backend engineering, API development, and open-source software.
+```javascript
+const aditya = {
+  role: "Backend Developer",
+  education: "B.Tech CSE",
+  technologies: ["JavaScript", "Node.js", "Express.js", "MongoDB"],
+  interests: [
+    "Backend Engineering",
+    "REST API Development",
+    "Open Source",
+    "Developer Tools"
+  ],
+  currentFocus: "Building and testing reliable software"
+};
+```
 
-- Building backend applications and developer tools.
-- Working with Node.js, Express.js, JavaScript, and MongoDB.
-- Exploring dependency analysis, testing, and software reliability.
-- Contributing to open-source projects through focused, testable changes.
-
-## Tech Stack
+## `> tech_stack`
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
+<img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,react,nextjs&theme=dark" alt="Technology stack" />
 
 </div>
 
-## Featured Projects
+## `> featured_projects`
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### GraphFlow
 
-**Dependency and Blast-Radius Analysis for React + Node.js**
+**Dependency & Blast-Radius Analysis**
 
-A developer-tool project focused on tracing relationships across React components, API routes, backend services, and database access.
+A developer-tool project focused on tracing dependencies across React components, API routes, backend services, and database access.
 
-- Static, deterministic dependency analysis.
-- Git-based change impact analysis.
-- Failure simulation and structured analysis output.
-- Designed to identify affected code without relying on guesses.
+- Deterministic static analysis
+- Git-based change impact analysis
+- Failure simulation
+- Structured analysis output
 
-[View Repository](https://github.com/adirwt852-cloud/aditya)
+<a href="https://github.com/adirwt852-cloud/aditya">View Repository →</a>
 
-### OpenCodex | Open Source Contribution
+</td>
+<td width="50%" valign="top">
 
-**Merged PR #7068 · Offline Responses Continuation Regression Tests**
+### OpenCodex
 
-Contributed regression tests for Responses API function-call ID linkage and continuation behavior.
+**Merged Open Source Contribution**
 
-- Tested matching `call_id` relationships between function calls and outputs.
-- Covered unknown, duplicate, missing, and mismatched call IDs.
-- Added offline regression coverage without requiring live API credentials.
+PR #7068: Offline Responses continuation regression tests.
 
-[View Merged PR #7068](https://github.com/lidge-jun/opencodex/pull/7068)
+- Function-call ID linkage coverage
+- Unknown and duplicate call IDs
+- Missing and mismatched call IDs
+- Offline regression tests
 
-## GitHub Statistics
+<a href="https://github.com/lidge-jun/opencodex/pull/7068">View PR #7068 →</a>
 
-<div align="center">
+</td>
+</tr>
+</table>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adirwt852-cloud&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adirwt852-cloud&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=adirwt852-cloud&theme=tokyonight&hide_border=true)
-
-</div>
-
-## Contribution Activity
+## `> github_stats`
 
 <div align="center">
 
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=adirwt852-cloud&theme=tokyo-night&hide_border=true)](https://github.com/adirwt852-cloud)
+<a href="https://github.com/adirwt852-cloud">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=adirwt852-cloud&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=7C3AED&text_color=C9D1D9" alt="GitHub statistics" />
+</a>
+
+<a href="https://github.com/adirwt852-cloud">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adirwt852-cloud&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9" alt="Most used languages" />
+</a>
+
+<br/>
+
+<a href="https://streak-stats.demolab.com/?user=adirwt852-cloud&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=7C3AED&currStreakLabel=00F7FF">
+<img src="https://streak-stats.demolab.com/?user=adirwt852-cloud&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=7C3AED&currStreakLabel=00F7FF" alt="GitHub contribution streak" />
+</a>
 
 </div>
+
+## `> contribution_graph`
+
+<div align="center">
+
+<a href="https://github.com/adirwt852-cloud">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adirwt852-cloud&bg_color=0d1117&color=00f7ff&line=7c3aed&point=ffffff&area=true&hide_border=true" alt="GitHub contribution activity graph" />
+</a>
+
+</div>
+
+## `> currently_building`
+
+- Backend applications and REST APIs
+- Static dependency analysis and developer tooling
+- Reliable, testable open-source software
 
 ---
 
 <div align="center">
 
-**Learn • Build • Test • Contribute**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7C3AED,100:0D1117&height=120&section=footer" width="100%" alt="Animated-style gradient footer" />
 
-[GitHub Profile](https://github.com/adirwt852-cloud) · [Open Source Work](https://github.com/lidge-jun/opencodex/pulls?q=is%3Apr+author%3Aadirwt852-cloud)
+**`CODE. TEST. CONTRIBUTE. REPEAT.`**
+
+<a href="https://github.com/adirwt852-cloud">GitHub Profile</a> · <a href="https://github.com/lidge-jun/opencodex/pulls?q=is%3Apr+author%3Aadirwt852-cloud">Open Source PRs</a>
 
 </div>
