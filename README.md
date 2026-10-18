@@ -164,3 +164,22 @@ Merged PR #7068: offline Responses continuation regression tests.
 **`DREAM. BUILD. DEBUG. DEPLOY. REPEAT.`**
 
 </div>
+## 🌌 Contribution Activity
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F7FF,50:7C3AED,100:FF00D4" width="100%" alt="Neon divider"/>
+
+<a href="https://github.com/adirwt852-cloud">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adirwt852-cloud&bg_color=050816&color=00F7FF&line=9D4EDD&point=FFFFFF&area=true&area_color=312E81&hide_border=true&custom_title=MY%20CONTRIBUTION%20UNIVERSE&radius=12" width="100%" alt="Neon contribution activity graph"/>
+
+</a>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:FF00D4,50:7C3AED,100:00F7FF" width="100%" alt="Neon divider"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=adirwt852-cloud&theme=transparent&hide_border=true&background=05081600&ring=00F7FF&fire=FF00D4&currStreakLabel=00F7FF&sideLabels=9D4EDD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" width="90%" alt="Contribution streak"/>
+
+</div>
