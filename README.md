@@ -1,40 +1,66 @@
  <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=HEY%2C+I'M+ADITYA+RAWAT;BACKEND+DEVELOPER;NODE.JS+%7C+EXPRESS.JS+%7C+MONGODB;OPEN+SOURCE+CONTRIBUTOR" alt="Animated introduction" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,25:0B3D91,55:6D28D9,80:00D9FF,100:050816&height=260&section=header&text=ADITYA%20RAWAT&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20OPEN%20SOURCE%20CONTRIBUTOR&descAlignY=60&descSize=16&animation=twinkling" alt="Animated neon header" />
 
-### `Building reliable software, one commit at a time.`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2200&pause=600&color=00F7FF&center=true&vCenter=true&width=750&lines=Welcome+to+my+digital+space;Full+Stack+Development;React+%7C+Next.js+%7C+TypeScript;Node.js+%7C+MongoDB+%7C+SQL;Building+ideas+into+software" alt="Animated typing text" />
 
-[![GitHub](https://img.shields.io/badge/GitHub-adirwt852--cloud-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF)](https://github.com/adirwt852-cloud)
-[![Open Source](https://img.shields.io/badge/Open_Source-Contributor-0D1117?style=for-the-badge&logo=github&logoColor=7C3AED)](https://github.com/lidge-jun/opencodex/pull/7068)
-[![Profile Views](https://komarev.com/ghpvc/?username=adirwt852-cloud&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS)](https://github.com/adirwt852-cloud)
+<br/>
+
+<a href="https://github.com/adirwt852-cloud"><img src="https://img.shields.io/badge/GitHub-adirwt852--cloud-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF" alt="GitHub"/></a>
+<a href="https://github.com/lidge-jun/opencodex/pull/7068"><img src="https://img.shields.io/badge/Open_Source-Merged_PR-6D28D9?style=for-the-badge&logo=github" alt="Open source contribution"/></a>
+<img src="https://komarev.com/ghpvc/?username=adirwt852-cloud&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
 ---
 
+<div align="center">
+
+## ⚡ `SYSTEM ONLINE`
+
+*Turning ideas into applications, and commits into progress.*
+
+</div>
+
 ## 👨‍💻 About Me
 
-Hey! I'm **Aditya Rawat**, a final-year B.Tech Computer Science student from India with a strong interest in backend development and open-source software.
+I'm **Aditya Rawat**, a B.Tech Computer Science student interested in full-stack development, backend engineering, and open-source software.
 
-- 🔭 Building **GraphFlow**, a dependency and change-impact analysis tool.
-- ⚙️ Working with Node.js, Express.js, JavaScript and MongoDB.
-- 🌐 Interested in REST APIs, backend architecture and developer tooling.
-- 🤝 Contributed regression tests to OpenCodex through merged PR #7068.
-- 🎯 Focused on writing maintainable code and building practical software.
+- 💻 Exploring modern web development with React and Next.js.
+- ⚙️ Building APIs and backend applications with Node.js and Express.js.
+- 🗄️ Working with MongoDB and SQL databases.
+- 🔬 Interested in dependency analysis, testing, and software reliability.
+- 🤝 Contributed offline regression tests to OpenCodex through merged PR #7068.
 
 ---
 
-## ⚡ Tech Stack
+## 🧬 My Tech Universe
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,react,nextjs&theme=dark" alt="JavaScript, Node.js, Express.js, MongoDB, React and Next.js" />
+### FRONTEND
 
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" alt="Frontend technologies"/>
 
-<img src="https://img.shields.io/badge/Backend_Development-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=00F7FF" alt="Backend development" />
-<img src="https://img.shields.io/badge/REST_APIs-0D1117?style=for-the-badge&logo=fastapi&logoColor=00F7FF" alt="REST APIs" />
-<img src="https://img.shields.io/badge/Static_Analysis-0D1117?style=for-the-badge&logo=dependabot&logoColor=7C3AED" alt="Static analysis" />
+### BACKEND
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,python&theme=dark" alt="Backend and programming languages"/>
+
+### DATABASES
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark" alt="MongoDB, MySQL and PostgreSQL"/>
+
+### TOOLS & WORKFLOW
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker&theme=dark" alt="Development tools"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,20,24&height=3&section=header" width="100%" alt="Gradient divider"/>
+
+`JAVASCRIPT` · `TYPESCRIPT` · `REACT` · `NEXT.JS` · `NODE.JS` · `EXPRESS` · `MONGODB` · `SQL`
 
 </div>
 
@@ -46,34 +72,34 @@ Hey! I'm **Aditya Rawat**, a final-year B.Tech Computer Science student from Ind
 <tr>
 <td width="50%" valign="top">
 
-<h3>🔗 GraphFlow</h3>
+<h3>🔷 GraphFlow</h3>
 
 **Dependency & Blast-Radius Analysis**
 
-A developer-tool project designed to analyze dependencies across React components, API routes, backend services and database access.
+A developer tool focused on tracing dependencies across React components, API routes, backend services, and database access.
 
 - Deterministic static analysis
 - Git-based change-impact analysis
 - Failure simulation
 - Structured analysis output
 
-<a href="https://github.com/adirwt852-cloud/aditya">View Repository →</a>
+<a href="https://github.com/adirwt852-cloud/aditya">Explore Project →</a>
 
 </td>
 <td width="50%" valign="top">
 
-<h3>🧪 OpenCodex</h3>
+<h3>🟣 OpenCodex</h3>
 
 **Open-Source Contribution**
 
-Contributed offline regression tests for Responses continuation and function-call ID linkage.
+Merged PR #7068: offline Responses continuation regression tests.
 
-- Matching function-call IDs
+- Function-call ID linkage
 - Unknown and duplicate call IDs
 - Missing and mismatched call IDs
-- Regression test coverage
+- Offline regression coverage
 
-<a href="https://github.com/lidge-jun/opencodex/pull/7068">View Merged PR #7068 →</a>
+<a href="https://github.com/lidge-jun/opencodex/pull/7068">Explore Merged PR →</a>
 
 </td>
 </tr>
@@ -81,57 +107,60 @@ Contributed offline regression tests for Responses continuation and function-cal
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Command Center
 
 <div align="center">
 
 <a href="https://github.com/adirwt852-cloud">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=adirwt852-cloud&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=7C3AED&text_color=C9D1D9" alt="GitHub statistics" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=adirwt852-cloud&show_icons=true&hide_border=true&bg_color=050816&title_color=00F7FF&icon_color=9D4EDD&text_color=E6EDF3&ring_color=00F7FF" alt="GitHub stats"/>
 </a>
 
 <a href="https://github.com/adirwt852-cloud">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adirwt852-cloud&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9" alt="Most-used languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adirwt852-cloud&layout=compact&hide_border=true&bg_color=050816&title_color=00F7FF&text_color=E6EDF3" alt="Top languages"/>
 </a>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=adirwt852-cloud&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=7C3AED&currStreakLabel=00F7FF" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com/?user=adirwt852-cloud&hide_border=true&background=050816&stroke=6D28D9&ring=00F7FF&fire=FF4DDE&currStreakLabel=00F7FF&sideLabels=E6EDF3&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub streak statistics"/>
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## 🌌 Contribution Universe
 
 <div align="center">
 
-<a href="https://github.com/adirwt852-cloud">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adirwt852-cloud&bg_color=0D1117&color=00F7FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution graph" />
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adirwt852-cloud&bg_color=050816&color=00F7FF&line=9D4EDD&point=FFFFFF&area=true&area_color=312E81&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" width="100%" alt="Contribution activity graph"/>
 
 </div>
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Current Mission
 
-- Building backend applications and REST APIs
-- Exploring dependency analysis and software reliability
-- Improving testing practices and code quality
-- Making meaningful open-source contributions
+<div align="center">
+
+| Focus | Mission |
+|:--|:--|
+| ⚛️ Frontend | React and Next.js |
+| ⚙️ Backend | APIs and server-side development |
+| 🗄️ Databases | MongoDB and SQL |
+| 🧪 Quality | Testing and software reliability |
+| 🌍 Open Source | Meaningful contributions |
+
+</div>
 
 ---
 
 <div align="center">
 
-### `KEEP BUILDING. KEEP LEARNING. KEEP SHIPPING.`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=900&color=9D4EDD&center=true&vCenter=true&width=600&lines=BUILD+SOMETHING+MEANINGFUL;WRITE+CODE+THAT+LASTS;NEVER+STOP+LEARNING" alt="Animated closing message"/>
 
-<a href="https://github.com/adirwt852-cloud?tab=repositories">
-<img src="https://img.shields.io/badge/Explore_My_Repositories-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF" alt="Explore repositories" />
-</a>
+<a href="https://github.com/adirwt852-cloud?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF" alt="Explore my work"/></a>
 
-<br/><br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,30:6D28D9,65:0B3D91,100:00D9FF&height=140&section=footer&animation=twinkling" alt="Animated neon footer"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00F7FF,50:7C3AED,100:0D1117" width="100%" alt="Gradient footer" />
+**`DREAM. BUILD. DEBUG. DEPLOY. REPEAT.`**
 
 </div>
