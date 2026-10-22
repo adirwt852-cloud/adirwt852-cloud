@@ -1,15 +1,15 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,20:111827,45:312E81,70:6D28D9,100:06B6D4&text=ADITYA%20RAWAT&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20OPEN%20SOURCE%20CONTRIBUTOR&descSize=15&descAlignY=58&animation=twinkling&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,20:111827,45:312E81,70:6D28D9,100:06B6D4&text=ADITYA%20RAWAT&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20OPEN%20SOURCE%20CONTRIBUTOR&descSize=15&descAlignY=58&animation=twinkling&section=header" width="100%" alt="Aditya Rawat profile banner" />
 
 <a href="https://github.com/adirwt852-cloud">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;JavaScript+%7C+TypeScript;React+%7C+Next.js;Node.js+%7C+Express.js;MongoDB+%7C+SQL;Building+Projects+%26+Contributing+to+Open+Source" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;JavaScript+%7C+TypeScript;React+%7C+Next.js;Node.js+%7C+Express.js;MongoDB+%7C+SQL;Building+Projects+%26+Contributing+to+Open+Source" alt="Typing animation" />
 </a>
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=adirwt852-cloud&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS" alt="Profile views" />
-<img src="https://img.shields.io/badge/FOCUS-FULL%20STACK-00F7FF?style=for-the-badge&labelColor=0D1117" alt="Focus Full Stack" />
+<img src="https://img.shields.io/badge/FOCUS-FULL%20STACK-00F7FF?style=for-the-badge&labelColor=0D1117" alt="Full stack focus" />
 <img src="https://img.shields.io/badge/OPEN%20SOURCE-CONTRIBUTOR-8B5CF6?style=for-the-badge&labelColor=0D1117" alt="Open source contributor" />
 
 </div>
@@ -18,14 +18,14 @@
 
 ## `> whoami`
 
-Hey! I'm **Aditya Rawat**, a Computer Science engineering student interested in building practical web applications and exploring open-source codebases.
+Hey! I'm **Aditya Rawat**, a final-year Computer Science engineering student from India interested in building practical web applications and contributing to real-world open-source projects.
 
 - 💻 Interested in full-stack web development
 - ⚡ Working with JavaScript, TypeScript, React and Next.js
 - 🛠️ Building backend applications with Node.js and Express.js
-- 🗄️ Learning and working with MongoDB and SQL databases
-- 🔍 Interested in debugging, testing and understanding real-world codebases
-- 🌐 Contributing to open-source projects
+- 🗄️ Working with MongoDB and exploring SQL databases
+- 🔍 Interested in debugging, testing and understanding large codebases
+- 🌐 Contributing to open-source projects and learning from code reviews
 
 ---
 
@@ -40,6 +40,10 @@ Hey! I'm **Aditya Rawat**, a Computer Science engineering student interested in 
 ### Backend & Databases
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres&theme=dark" alt="Node.js, Express, MongoDB, MySQL and PostgreSQL" />
+
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub and VS Code" />
 
 </div>
 
@@ -61,36 +65,59 @@ Hey! I'm **Aditya Rawat**, a Computer Science engineering student interested in 
 
 A developer tool focused on analyzing dependencies and the potential blast radius of code changes in React and Node.js projects.
 
+**Key areas:**
 - Dependency analysis
 - Change impact exploration
-- Structured analysis of connected code paths
+- Connected code-path analysis
+- Understanding how changes affect dependent components and services
 
 </td>
 <td width="50%" valign="top">
 
+<h3 align="center">🧪 OpenCodex</h3>
 
+<div align="center">
+<a href="https://github.com/lidge-jun/opencodex/pull/7068">
+<img src="https://img.shields.io/badge/PR%20%237068-MERGED-238636?style=for-the-badge&logo=github&logoColor=white" alt="Merged OpenCodex pull request 7068" />
+</a>
+</div>
+
+Contributed offline regression tests for Responses API continuation and function-call ID linkage.
+
+**Contribution highlights:**
+- Tested function-call ID matching
+- Covered missing, duplicate, unknown and mismatched call IDs
+- Added checks for function-call type and name
+- Verified continuation behavior without live API credentials
+
+**Contribution type:** Testing and regression coverage.
+
+<a href="https://github.com/lidge-jun/opencodex/pull/7068">View merged pull request →</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## `> open_source`
+## `> open_source_contributions`
 
 <div align="center">
 
-### OpenCodex · PR #7068
-
 <a href="https://github.com/lidge-jun/opencodex/pull/7068">
-<img src="https://img.shields.io/badge/PR%20%237068-MERGED-238636?style=for-the-badge&logo=github&logoColor=white" alt="Merged OpenCodex pull request" />
+<img src="https://img.shields.io/badge/OpenCodex-PR%20%237068-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="OpenCodex PR 7068" />
 </a>
+<img src="https://img.shields.io/badge/STATUS-MERGED-238636?style=for-the-badge" alt="Merged status" />
 
 </div>
 
-Contributed **offline regression tests for Responses API continuation and function-call ID linkage** in OpenCodex.
+**Repository:** [lidge-jun/opencodex](https://github.com/lidge-jun/opencodex)
 
-- Added tests for function-call ID matching
-- Covered missing, duplicate, unknown and mismatched call IDs
-- Verified test behavior without relying on live API credentials
+**Pull request:** [#7068 · Offline Responses continuation regression coverage](https://github.com/lidge-jun/opencodex/pull/7068)
 
-[View merged pull request →](https://github.com/lidge-jun/opencodex/pull/7068)
+Worked on automated tests for function-call ID relationships in Responses API continuation flows, covering edge cases without depending on live API credentials.
+
+This contribution involved test design, regression coverage, and validation of existing behavior.
 
 ---
 
@@ -116,19 +143,20 @@ Contributed **offline regression tests for Responses API continuation and functi
 
 ## `> current_focus`
 
-- Building full-stack web applications
-- Improving React and Next.js skills
-- Strengthening backend development with Node.js and Express.js
-- Working with MongoDB and SQL databases
-- Exploring open-source projects and software testing
+- 🚀 Building and improving full-stack web applications
+- ⚛️ Strengthening React and Next.js fundamentals
+- 🔧 Improving backend development with Node.js and Express.js
+- 🧪 Learning practical testing and debugging techniques
+- 🌍 Contributing to open-source repositories
+- 📚 Understanding codebases, writing regression tests, and responding to code reviews
 
 ---
 
 <div align="center">
 
-### `BUILD • LEARN • DEBUG • REPEAT`
+### `BUILD • LEARN • DEBUG • CONTRIBUTE`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:06B6D4,45:6D28D9,100:020617&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:06B6D4,45:6D28D9,100:020617&section=footer" width="100%" alt="Profile footer banner" />
 
 **Thanks for visiting my profile!**
 
