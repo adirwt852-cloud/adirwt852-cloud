@@ -68,21 +68,7 @@ A developer tool focused on analyzing dependencies and the potential blast radiu
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">🎯 Interview Room Simulator</h3>
 
-<div align="center">
-<img src="https://img.shields.io/badge/PROJECT-PLANNING-00F7FF?style=for-the-badge&labelColor=0D1117" alt="Project planning" />
-</div>
-
-A project concept focused on simulating interview practice through a web application.
-
-- Interview practice experience
-- Full-stack web development
-- Focus on a practical developer workflow
-
-</td>
-</tr>
-</table>
 
 ---
 
