@@ -18,13 +18,13 @@
 
 ## `> whoami`
 
-Hey! I'm **Aditya Rawat**, a final-year Computer Science engineering student from India interested in building practical web applications and contributing to real-world open-source projects.
+Hey! I'm **Aditya Rawat**, a final-year Computer Science engineering student interested in building practical web applications, solving problems, and contributing to real-world open-source projects.
 
-- 💻 Interested in full-stack web development
+- 💻 Focused on full-stack web development
 - ⚡ Working with JavaScript, TypeScript, React and Next.js
-- 🛠️ Building backend applications with Node.js and Express.js
-- 🗄️ Working with MongoDB and exploring SQL databases
-- 🔍 Interested in debugging, testing and understanding large codebases
+- 🛠️ Building backend applications using Node.js and Express.js
+- 🗄️ Working with MongoDB and learning SQL databases
+- 🧪 Interested in testing, debugging and code quality
 - 🌐 Contributing to open-source projects and learning from code reviews
 
 ---
@@ -39,7 +39,7 @@ Hey! I'm **Aditya Rawat**, a final-year Computer Science engineering student fro
 
 ### Backend & Databases
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres&theme=dark" alt="Node.js, Express, MongoDB, MySQL and PostgreSQL" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres&theme=dark" alt="Node.js, Express.js, MongoDB, MySQL and PostgreSQL" />
 
 ### Tools & Platforms
 
@@ -53,7 +53,7 @@ Hey! I'm **Aditya Rawat**, a final-year Computer Science engineering student fro
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
 <h3 align="center">⚡ GraphFlow</h3>
 
@@ -63,36 +63,14 @@ Hey! I'm **Aditya Rawat**, a final-year Computer Science engineering student fro
 </a>
 </div>
 
-A developer tool focused on analyzing dependencies and the potential blast radius of code changes in React and Node.js projects.
+A developer tool designed to analyze dependencies and the potential blast radius of code changes in React and Node.js projects.
 
-**Key areas:**
-- Dependency analysis
-- Change impact exploration
-- Connected code-path analysis
-- Understanding how changes affect dependent components and services
+**Key features and goals:**
 
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">🧪 OpenCodex</h3>
-
-<div align="center">
-<a href="https://github.com/lidge-jun/opencodex/pull/7068">
-<img src="https://img.shields.io/badge/PR%20%237068-MERGED-238636?style=for-the-badge&logo=github&logoColor=white" alt="Merged OpenCodex pull request 7068" />
-</a>
-</div>
-
-Contributed offline regression tests for Responses API continuation and function-call ID linkage.
-
-**Contribution highlights:**
-- Tested function-call ID matching
-- Covered missing, duplicate, unknown and mismatched call IDs
-- Added checks for function-call type and name
-- Verified continuation behavior without live API credentials
-
-**Contribution type:** Testing and regression coverage.
-
-<a href="https://github.com/lidge-jun/opencodex/pull/7068">View merged pull request →</a>
+- Dependency analysis across connected code paths
+- Change impact analysis for affected components and services
+- Structured exploration of relationships between code elements
+- Helping developers understand what could be affected before making changes
 
 </td>
 </tr>
@@ -102,22 +80,29 @@ Contributed offline regression tests for Responses API continuation and function
 
 ## `> open_source_contributions`
 
+### 🧪 OpenCodex
+
 <div align="center">
 
 <a href="https://github.com/lidge-jun/opencodex/pull/7068">
-<img src="https://img.shields.io/badge/OpenCodex-PR%20%237068-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="OpenCodex PR 7068" />
+<img src="https://img.shields.io/badge/PR%20%237068-MERGED-238636?style=for-the-badge&logo=github&logoColor=white" alt="OpenCodex PR 7068 merged" />
 </a>
-<img src="https://img.shields.io/badge/STATUS-MERGED-238636?style=for-the-badge" alt="Merged status" />
 
 </div>
 
 **Repository:** [lidge-jun/opencodex](https://github.com/lidge-jun/opencodex)
 
-**Pull request:** [#7068 · Offline Responses continuation regression coverage](https://github.com/lidge-jun/opencodex/pull/7068)
+**Contribution:** Offline regression tests for Responses API continuation and function-call ID linkage.
 
-Worked on automated tests for function-call ID relationships in Responses API continuation flows, covering edge cases without depending on live API credentials.
+- Added regression coverage for function-call ID matching.
+- Tested missing, duplicate, unknown and mismatched call IDs.
+- Checked function-call type and name validation.
+- Kept the tests independent of live API credentials.
+- Validated the tests and TypeScript types.
 
-This contribution involved test design, regression coverage, and validation of existing behavior.
+**Contribution area:** Automated testing, regression coverage and debugging.
+
+[View merged PR #7068 →](https://github.com/lidge-jun/opencodex/pull/7068)
 
 ---
 
@@ -143,12 +128,12 @@ This contribution involved test design, regression coverage, and validation of e
 
 ## `> current_focus`
 
-- 🚀 Building and improving full-stack web applications
-- ⚛️ Strengthening React and Next.js fundamentals
-- 🔧 Improving backend development with Node.js and Express.js
-- 🧪 Learning practical testing and debugging techniques
-- 🌍 Contributing to open-source repositories
-- 📚 Understanding codebases, writing regression tests, and responding to code reviews
+- 🚀 Building practical full-stack web applications
+- ⚛️ Improving React and Next.js skills
+- 🔧 Strengthening backend development with Node.js and Express.js
+- 🗄️ Practicing database design and integration
+- 🧪 Writing reliable tests and debugging real-world code
+- 🌍 Contributing to open-source projects and learning collaborative development
 
 ---
 
